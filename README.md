@@ -16,7 +16,9 @@ Flat 스타일과 Round 스타일이 있고
 ### Flat
 ![alt text](<image/dotpixel/스크린샷 2025-10-01 011203.png>)  
 ![alt text](<image/dotpixel/스크린샷 2025-10-01 011218.png>)
+- [플레이 영상](https://youtu.be/quC2xg6GfXM)
 
 ### Round
 ![alt text](<image/dotpixel/스크린샷 2025-10-01 011239.png>)  
 ![alt text](<image/dotpixel/스크린샷 2025-10-01 011254.png>)
+- [플레이 영상](https://youtu.be/ppJpjmvzIi8)
