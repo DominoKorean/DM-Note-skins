@@ -5,6 +5,8 @@
 뒤에 이미지 넣은 버튼 배경처럼 하면 뒤쪽에 흐릿하게 처리되서 이쁨  
 ( 스킨에 배경 이미지 미포함, 출처: [공식 1주일 기념 배경화면](https://store.steampowered.com/news/app/960170/view/4178750236019857093?l=koreana) )
 
+- [다운로드](https://download-directory.github.io/?url=https%3A%2F%2Fgithub.com%2FDominoKorean%2FDM-Note-skins%2Ftree%2Fmain%2FDM%2520Note%2FGlassic)
+
 ## 사용법
 
 설정에서 커스텀 CSS 활성화 키고  
@@ -44,7 +46,7 @@
 ![alt text](<../../image/glassic/스크린샷 2025-11-06 004234.png>)
 ![alt text](<../../image/glassic/스크린샷 2025-11-06 010052.png>)
 
-- [영상 - **아이콘 적용, with 배경**](https://youtu.be/tBWXC1XuVf0?si=bhHGerzYgEPZHAj8)
+- [영상 - **아이콘 적용, with 배경**](https://youtu.be/myKAvnTWZhI?si=GRv2PBsdCi21IUHn)
 - [영상 - **아이콘 Black, 노트효과**](https://youtu.be/kSZrxBij1R8?si=fD9EpZGDygQq17Y_)
-- [영상 - **아이콘 비적용, 키카운터 켜짐**](https://youtu.be/myKAvnTWZhI?si=qz8zQ5cHk0NTXnxx)  
+- [영상 - **아이콘 비적용, 키카운터 켜짐**](https://youtu.be/tBWXC1XuVf0?si=PRFfb2VGdblGYmqh)  
 ( 실제론 키카운터 밝은부분에서 영상보다 더 잘보이게 패치됨 )
