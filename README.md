@@ -18,6 +18,6 @@
 
 - [Glassic](/DM%20Note/Glassic/README.md) 
 
-반투명 컨샙의 커스텀 CSS 스킨
+모던한 반투명 컨샙의 커스텀 CSS 스킨  
 
 ![alt text](<image/glassic/스크린샷 2025-11-06 004234.png>)
